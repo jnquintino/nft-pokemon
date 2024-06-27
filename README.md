@@ -32,3 +32,7 @@ Para reproduzir ou verificar o contrato:
    ```bash
    git clone [https://github.com/seu-usuario/pokedio-nft](https://github.com/jnquintino/nft-pokemon/).git
    cd nft-pokemon
+
+# Foto do momento
+
+![Captura de Tela 2024-06-27 às 16 11 28](https://github.com/jnquintino/nft-pokemon/assets/89667184/dde773bf-8627-4dc1-8377-9917bee7512a)
