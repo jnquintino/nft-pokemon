@@ -31,4 +31,4 @@ Para reproduzir ou verificar o contrato:
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/seu-usuario/pokedio-nft](https://github.com/jnquintino/nft-pokemon/).git
-   cd pokedio-nft
+   cd nft-pokemon
